@@ -26,7 +26,6 @@
 ## 📌 Visão Geral da Solução
 
 O **OnFocus** resolve o dilema entre o potencial pedagógico dos smartphones e as distrações digitais em sala de aula. Em vez de recolher os aparelhos ou adotar softwares invasivos de espionagem, a plataforma estabelece uma **política pedagógica temporária**:
-
 1. **Leitura de QR Code**: O aluno escaneia com o smartphone o QR Code da carteira/sala no início da aula.
 2. **Whitelist Pedagógica**: O aparelho entra no *Launcher Protegido*, disponibilizando exclusivamente os aplicativos autorizados pelo professor para aquela disciplina (ex: GeoGebra, Calculadora, Dicionário).
 3. **Foco Ativo**: Notificações, redes sociais e jogos são suspensos durante o período da aula.
