@@ -67,8 +67,6 @@ graph TD
     Launcher -->|Tentativa de Distração| Bloqueio
     Prof -->|Encerra Aula| Unlock
     Aluno <-->|WebSockets / REST API (Telemetry & Policy)| Dash
-```
-
 ---
 
 ## 📂 Estrutura de Pastas do Projeto
